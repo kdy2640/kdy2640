@@ -1,5 +1,8 @@
 ### Doyeop Kim @kdy2640
 
+[<img src="https://img.shields.io/badge/Notion Portfolio-333333?style=flat-square&logo=Notion&logoColor=white"/>](https://www.notion.so/1449f396ff7d4b30bbf3149db3b8721b)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kdy2640&layout=compact)](https://github.com/kdy2640)
 <!--
 **kdy2640/kdy2640** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
