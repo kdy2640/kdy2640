@@ -6,6 +6,17 @@
 <!--
 **kdy2640/kdy2640** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+### 🔥 I'm interested in...
+- Game Programming
+- Computer Graphics
+- Unity & Unreal Engine
+
+### 💻 I can do these things...
+- C/C++
+- Unity/C#/WindowForm
+- Python
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
