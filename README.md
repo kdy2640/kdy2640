@@ -5,12 +5,12 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kdy2640&layout=compact)](https://github.com/kdy2640)
 
-### 🔥 I'm interested in...
+### I'm interested in...
 - Game Programming
 - Computer Graphics
 - Unity & Unreal Engine
 
-### 💻 I can do these things...
+### I can do these things...
 - C/C++
 - Unity/C#/WindowForm
 - Python
